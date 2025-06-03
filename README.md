@@ -8,13 +8,13 @@ Understand the characteristics of strong passwords and test their effectiveness 
 
 ## 🧪 Passwords Tested
 
-| Password             | Components                                | Strength (%) | Evaluation Summary                     |
-|----------------------|--------------------------------------------|--------------|----------------------------------------|
-| `apple123`           | Lowercase + numbers                        | 34%          | Weak - Predictable, lacks complexity   |
-| `Apple@123`          | Mixed case + symbol + numbers              | 68%          | Moderate - Decent structure            |
-| `P@ssW0rd2025!`      | Complex pattern, 12 characters             | 84%          | Strong - Good mix, slightly common     |
-| `abcdefgh`           | Only lowercase letters                     | 15%          | Very Weak - Lacks variety              |
-| `#HkT$9rTz*Lp@2025`  | Uppercase, lowercase, numbers, symbols     | 100%         | Very Strong - High entropy and length  |
+| Password             | Components                                | Strength (%) | Evaluation Summary                       |
+|----------------------|--------------------------------------------|--------------|---------------------------------------- |
+| `apple123`           | Lowercase + numbers                        | 37%          | Weak - Predictable, lacks complexity    |
+| `Apple@123`          | Mixed case + symbol + numbers              | 81%          | Moderate - Decent structure             |
+| `P@ssW0rd2025!`      | Complex pattern, 12 characters             | 100%         | Very  Strong - Good mix, slightly common|
+| `abcdefgh`           | Only lowercase letters                     | 0%           | Very Weak - Lacks variety               |
+| `#HkT$9rTz*Lp@2025`  | Uppercase, lowercase, numbers, symbols     | 100%         | Very Strong - High entropy and length   |
 
 ## ✅ Key Observations
 - Longer passwords are significantly harder to crack.
